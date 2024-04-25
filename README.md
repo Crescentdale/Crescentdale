@@ -5,7 +5,6 @@
 
 - <b>JavaScript & p5play</b> 
   - [Mage-vs-Wizard](https://github.com/Crescentdale/Mage-vs-Wizard)
-  - [Snowman-Going-Home](https://github.com/Crescentdale/Snowman-Going-Home)
   - [Dog-Walking](https://github.com/Crescentdale/Dog-Walking)
   - [Flowers](https://github.com/Crescentdale/Flowers)
 
