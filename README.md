@@ -18,7 +18,7 @@
 [<img align="left" alt="Pravallika | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] 
 [<img align="left" alt="Pravallika | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][Gmail]
 
-[Gmail]: <a href="mailto:pravallika.student.masters@gmail.com">Link text</a>
+[Gmail]: mailto:pravallika.student.masters@gmail.com
 [linkedin]: https://in.linkedin.com/in/pravallika
 
 <!--
