@@ -3,7 +3,8 @@
 
 <h2>👩🏻‍💻 Creative Coding Projects:</h2>
 
-- <b>JavaScript & p5play</b> 
+- <b>JavaScript & p5play</b>
+  - [Fur-ever](https://github.com/Crescentdale/Fur-ever)
   - [Mage-vs-Wizard](https://github.com/Crescentdale/Mage-vs-Wizard)
   - [Dog-Walking](https://github.com/Crescentdale/Dog-Walking)
   - [Flowers](https://github.com/Crescentdale/Flowers)
